@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+body {
+    text-align: center;
+    background-image: url("concrete-road.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-family: 'Amatic SC';
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 10px;
+	border-width:40px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h1,h4
+{
+	
+	color:rgb(255, 255, 255)!important;
+	
+}
